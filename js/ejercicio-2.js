@@ -24,7 +24,7 @@ let persona={
  nombre:"Moriel",
  edad:22,
  ciudad:"Quellon",
-
+//hola
 }
 console.log(persona);
 
